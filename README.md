@@ -1,1 +1,3 @@
-# Cereal84.github.io
+## Informations
+
+_blog_: https://cerealtree.wordpress.com/
